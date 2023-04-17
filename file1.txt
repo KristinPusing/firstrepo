@@ -3,3 +3,5 @@ Added first line
 I am adding functionality
 
 Anything can happen
+
+Trying git status without committing changes
