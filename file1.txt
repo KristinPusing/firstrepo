@@ -7,3 +7,5 @@ Anything can happen
 Trying git status without committing changes
 
 Showing change
+
+trying in new branch
